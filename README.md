@@ -30,7 +30,7 @@ Here, we manually compute a t-statistic and compare the results with those obtai
 
 This task estimates the probability of committing a Type II error in an ANOVA test under controlled experimental conditions. It demonstrates the relationship between statistical power, effect size, and sample size.
 
-## Project
+## Project Overview
 
 ### **Analysis of the PlantGrowth Dataset**
 
